@@ -1,1 +1,2 @@
 # Machine Learning & AI Foundations: Recommendations
+This project-based is how to use machine learning to build programs that can make recommendations. In this project i walks you through a hands-on lab building a recommendation system that is able to suggest similar products to customers based on past products they have reviewed or purchased. The system can also identify which products are similar to each other.
